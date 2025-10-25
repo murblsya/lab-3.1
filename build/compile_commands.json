@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/irishka/Desktop/Git/lab 3.1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -o CMakeFiles/lecture01_basics.dir/main.cpp.o -c \"/Users/irishka/Desktop/Git/lab 3.1/main.cpp\"",
+  "file": "/Users/irishka/Desktop/Git/lab 3.1/main.cpp",
+  "output": "CMakeFiles/lecture01_basics.dir/main.cpp.o"
+}
+]
